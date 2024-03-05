@@ -5,7 +5,7 @@
        for ($i = 0; $i < count($arr); $i++)
        {
            $result[] = $arr[$i] ** 3;
-           echo "$result[$i]" . " ";
+        //    echo "$result[$i]" . " ";
        }
        return $result; 
    }
